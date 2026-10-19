@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ztim2008.github.io/tashkent-kotly/sitemap.xml
